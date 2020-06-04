@@ -13,8 +13,8 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "predeploy": "yarn build"
-    "deploy" : "gh-pages -b gh-page -d build"
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -b master -d build",
     "start": "serve -s build",
     "xstart": "react-scripts start",
     "build": "react-scripts build",
