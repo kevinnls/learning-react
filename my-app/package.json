@@ -14,7 +14,7 @@
   },
   "scripts": {
     "predeploy": "yarn build",
-    "deploy": "gh-pages -b master -d build -e docs/",
+    "deploy": "gh-pages -d build",
     "start": "serve -s build",
     "xstart": "react-scripts start",
     "build": "react-scripts build",
