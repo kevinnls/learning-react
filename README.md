@@ -1,6 +1,8 @@
 # learning React
 this is my personal repo for React; just trying to learn.
 
+checking out the [docs by React](https://reactjs.org/docs/getting-started.html)
+
 honestly there isn't any thing for you to use in here
 
 
