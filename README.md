@@ -1,6 +1,8 @@
 # learning React
 this is my personal repo for React; just trying to learn.
 
+on the [tutorial by Tania Rascia](https://www.taniarascia.com/getting-started-with-react/)
+
 honestly there isn't any thing for you to use in here
 
 
