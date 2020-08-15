@@ -1,0 +1,26 @@
+{
+  "name": "obj-spreading",
+  "version": "0.1.0",
+  "description": "can an obj be spread when being passed as a prop to a React component?",
+  "main": "index.js",
+  "repository": "git@github.com:kevinnls/learning-react.git",
+  "author": "kevinnls <57634663+kevinnls@users.noreply.github.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.3"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
