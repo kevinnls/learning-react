@@ -1,0 +1,13 @@
+.clock {
+  width: fit-content;
+  margin: 7.5px auto 7.5px auto;
+  padding: auto;
+  text-align: center;
+  border: 5px dotted royalblue;
+}
+.onDemandClock {
+  cursor: pointer;
+}
+.onDemandClock:hover {
+  box-shadow: 5px 5px 7.5px pink;
+}
